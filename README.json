@@ -1,0 +1,341 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Netbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:22:52Z",
+            "owner": "netbox-community",
+            "repo": "netbox",
+            "stars": 21304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doctl",
+          "description": "Official command-line interface for the DigitalOcean API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:03:48Z",
+            "owner": "digitalocean",
+            "repo": "doctl",
+            "stars": 3448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-libvirt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-09T19:17:21Z",
+            "owner": "digitalocean",
+            "repo": "go-libvirt",
+            "stars": 1098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-qemu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-05T14:52:20Z",
+            "owner": "digitalocean",
+            "repo": "go-qemu",
+            "stars": 815
+          }
+        }
+      ],
+      "title": "Open source projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DDNS",
+          "description": "Personal DDNS client with DigitalOcean Networking DNS as backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-01T16:55:34Z",
+            "owner": "skibish",
+            "repo": "ddns",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "droplan",
+          "description": "Manage iptable rules for the private interface on DigitalOcean droplets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-06-10T02:32:23Z",
+            "owner": "tam7t",
+            "repo": "droplan",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "do-sshuttle",
+          "description": "Transparent Proxying via sshuttle to DigitalOcean Droplet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-11-06T09:40:32Z",
+            "owner": "f",
+            "repo": "do-sshuttle",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "foreman-digitalocean",
+          "description": "Plugin to enable management of DigitalOcean droplets in Foreman.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-10-20T14:32:30Z",
+            "owner": "theforeman",
+            "repo": "foreman-digitalocean",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Less Confusing Menus",
+          "description": "A Chrome extension that makes account menus less confusing.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-03-17T09:08:26Z",
+            "owner": "addpipe",
+            "repo": "Less-Confusing-Digital-Ocean-Menus",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghost-digitalocean",
+          "description": "A DigitalOcean Storage adapter for Ghost.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-27T10:16:08Z",
+            "owner": "shiva-hack",
+            "repo": "ghost-digitalocean",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lita-digitalocean",
+          "description": "Lita handler for managing DigitalOcean services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2014-10-23T16:30:09Z",
+            "owner": "jimmycuadra",
+            "repo": "lita-digitalocean",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hostpool",
+          "description": "Worker pool manager for DigitalOcean hosts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2013-11-08T09:03:42Z",
+            "owner": "progrium",
+            "repo": "hostpool",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "do-upgrade-plans",
+          "description": "A script to upgrade your DigitalOcean Droplets to better plans with the same cost.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-01-19T01:26:28Z",
+            "owner": "bjornjohansen",
+            "repo": "do-upgrade-plans",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DigitalOcean Droplet creator",
+          "description": "A dialog-based shell script to quickly create a single DigitalOcean Droplet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-05-13T03:38:18Z",
+            "owner": "NicholasPCole",
+            "repo": "dodc",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drophosts",
+          "description": "Update with peer droplets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-11-29T04:18:54Z",
+            "owner": "qmx",
+            "repo": "drophosts",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Community OSS projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "doctl",
+          "description": "Command-line tool for DigitalOcean services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:03:48Z",
+            "owner": "digitalocean",
+            "repo": "doctl",
+            "stars": 3448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tugboat",
+          "description": "Ruby command-line tool for DigitalOcean services, focusing on a more guided UX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2018-03-11T19:09:27Z",
+            "owner": "petems",
+            "repo": "tugboat",
+            "stars": 1438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "digitalocean-indicator",
+          "description": "Debian Gnome panel client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-30T20:28:28Z",
+            "owner": "andrewsomething",
+            "repo": "digitalocean-indicator",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OceanBar",
+          "description": "macOS menu bar client.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2016-06-01T13:45:21Z",
+            "owner": "terhechte",
+            "repo": "OceanBar",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "domanager",
+          "description": "Linux and Windows System Tray Client.",
+          "children": []
+        }
+      ],
+      "title": "Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "User Scripts",
+          "description": "User data scripts to help provision apps on a Droplet.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2018-01-19T13:52:12Z",
+            "owner": "digitalocean",
+            "repo": "do_user_scripts",
+            "stars": 805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Engineering Code of Conduct",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-02T17:21:05Z",
+            "owner": "digitalocean",
+            "repo": "engineering-code-of-conduct",
+            "stars": 296
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "To the extent possible under law, Jon Leibowitz has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:13.042Z",
+    "original_repository": "jonleibowitz/awesome-digitalocean",
+    "original_repository_sha": "0e9ae3b9b5ac78b5bd1561e7a022c36fe689745c",
+    "enhanced_repository": "enhansome/enhansome-digitalocean",
+    "enhanced_repository_description": null,
+    "title": "Awesome DigitalOcean with stars"
+  }
+}
