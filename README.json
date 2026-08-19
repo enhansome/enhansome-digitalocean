@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52796596,
             "language": "Python",
-            "last_commit": "2026-08-19T05:19:07Z",
+            "last_commit": "2026-08-19T11:31:06Z",
             "owner": "netbox-community",
             "repo": "netbox",
             "stars": 21329
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36529854,
             "language": "Go",
-            "last_commit": "2026-08-18T17:20:50Z",
+            "last_commit": "2026-08-19T12:04:00Z",
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3447
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59240156,
             "language": "Go",
             "last_commit": "2026-08-14T19:05:18Z",
             "owner": "digitalocean",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57146365,
             "language": "Go",
             "last_commit": "2025-05-05T14:52:20Z",
             "owner": "digitalocean",
@@ -63,7 +67,7 @@
       "title": "Open source projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84874313,
             "language": "Go",
             "last_commit": "2025-05-01T16:55:34Z",
             "owner": "skibish",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50146091,
             "language": "Go",
             "last_commit": "2017-06-10T02:32:23Z",
             "owner": "tam7t",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72980550,
             "language": "Shell",
             "last_commit": "2016-11-06T09:40:32Z",
             "owner": "f",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 27369191,
             "language": "Ruby",
             "last_commit": "2018-10-20T14:32:30Z",
             "owner": "theforeman",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 84197945,
             "language": "JavaScript",
             "last_commit": "2017-03-17T09:08:26Z",
             "owner": "addpipe",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121845896,
             "language": "JavaScript",
             "last_commit": "2018-12-27T10:16:08Z",
             "owner": "shiva-hack",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18660251,
             "language": "Ruby",
             "last_commit": "2014-10-23T16:30:09Z",
             "owner": "jimmycuadra",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14223229,
             "language": "Go",
             "last_commit": "2013-11-08T09:03:42Z",
             "owner": "progrium",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 118057802,
             "language": "PHP",
             "last_commit": "2018-01-19T01:26:28Z",
             "owner": "bjornjohansen",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76091233,
             "language": "Shell",
             "last_commit": "2020-05-13T03:38:18Z",
             "owner": "NicholasPCole",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72262571,
             "language": "Go",
             "last_commit": "2016-11-29T04:18:54Z",
             "owner": "qmx",
@@ -223,7 +238,7 @@
       "title": "Community OSS projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -232,8 +247,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36529854,
             "language": "Go",
-            "last_commit": "2026-08-18T17:20:50Z",
+            "last_commit": "2026-08-19T12:04:00Z",
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3447
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9418724,
             "language": "Ruby",
             "last_commit": "2018-03-11T19:09:27Z",
             "owner": "petems",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18739136,
             "language": "Python",
             "last_commit": "2017-04-30T20:28:28Z",
             "owner": "andrewsomething",
@@ -274,24 +292,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 19317760,
             "language": "Objective-C",
             "last_commit": "2016-06-01T13:45:21Z",
             "owner": "terhechte",
             "repo": "OceanBar",
             "stars": 69
           }
-        },
-        {
-          "node_type": "item",
-          "title": "domanager",
-          "description": "Linux and Windows System Tray Client.",
-          "children": []
         }
       ],
       "title": "Clients"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -300,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 36458663,
             "language": "Shell",
             "last_commit": "2018-01-19T13:52:12Z",
             "owner": "digitalocean",
@@ -314,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45945933,
             "language": null,
             "last_commit": "2023-04-02T17:21:05Z",
             "owner": "digitalocean",
@@ -323,16 +338,12 @@
         }
       ],
       "title": "Other"
-    },
-    {
-      "description": "To the extent possible under law, Jon Leibowitz has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:40:48.466Z",
+    "last_updated": "2026-08-19T12:25:22.441Z",
     "original_repository": "jonleibowitz/awesome-digitalocean",
+    "original_repository_id": 71426860,
     "original_repository_sha": "0e9ae3b9b5ac78b5bd1561e7a022c36fe689745c",
     "enhanced_repository": "enhansome/enhansome-digitalocean",
     "enhanced_repository_description": null,
