@@ -12,10 +12,10 @@
             "archived": false,
             "id": 52796596,
             "language": "Python",
-            "last_commit": "2026-08-22T05:06:34Z",
+            "last_commit": "2026-08-23T00:11:56Z",
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21346
+            "stars": 21352
           }
         },
         {
@@ -341,7 +341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:37:44.165Z",
+    "last_updated": "2026-08-23T05:39:02.596Z",
     "original_repository": "jonleibowitz/awesome-digitalocean",
     "original_repository_id": 71426860,
     "original_repository_sha": "0e9ae3b9b5ac78b5bd1561e7a022c36fe689745c",
