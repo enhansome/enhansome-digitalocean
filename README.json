@@ -15,7 +15,7 @@
             "last_commit": "2026-08-23T00:11:56Z",
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21352
+            "stars": 21355
           }
         },
         {
@@ -341,7 +341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:39:02.596Z",
+    "last_updated": "2026-08-24T05:49:18.333Z",
     "original_repository": "jonleibowitz/awesome-digitalocean",
     "original_repository_id": 71426860,
     "original_repository_sha": "0e9ae3b9b5ac78b5bd1561e7a022c36fe689745c",
