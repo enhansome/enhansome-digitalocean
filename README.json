@@ -12,10 +12,10 @@
             "archived": false,
             "id": 52796596,
             "language": "Python",
-            "last_commit": "2026-08-25T05:09:59Z",
+            "last_commit": "2026-08-26T05:10:05Z",
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21363
+            "stars": 21379
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 36529854,
             "language": "Go",
-            "last_commit": "2026-08-24T23:45:51Z",
+            "last_commit": "2026-08-26T05:18:54Z",
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3449
+            "stars": 3451
           }
         },
         {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 36529854,
             "language": "Go",
-            "last_commit": "2026-08-24T23:45:51Z",
+            "last_commit": "2026-08-26T05:18:54Z",
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3449
+            "stars": 3451
           }
         },
         {
@@ -341,7 +341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:20:30.054Z",
+    "last_updated": "2026-08-26T05:45:39.731Z",
     "original_repository": "jonleibowitz/awesome-digitalocean",
     "original_repository_id": 71426860,
     "original_repository_sha": "0e9ae3b9b5ac78b5bd1561e7a022c36fe689745c",
