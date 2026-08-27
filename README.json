@@ -12,10 +12,10 @@
             "archived": false,
             "id": 52796596,
             "language": "Python",
-            "last_commit": "2026-08-26T05:10:05Z",
+            "last_commit": "2026-08-26T19:31:37Z",
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21379
+            "stars": 21399
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 36529854,
             "language": "Go",
-            "last_commit": "2026-08-26T05:18:54Z",
+            "last_commit": "2026-08-27T06:53:34Z",
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3451
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-14T19:05:18Z",
             "owner": "digitalocean",
             "repo": "go-libvirt",
-            "stars": 1099
+            "stars": 1100
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 36529854,
             "language": "Go",
-            "last_commit": "2026-08-26T05:18:54Z",
+            "last_commit": "2026-08-27T06:53:34Z",
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3451
@@ -341,9 +341,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:45:39.731Z",
-    "original_repository": "jonleibowitz/awesome-digitalocean",
-    "original_repository_id": 71426860,
+    "last_updated": "2026-08-27T11:35:43.192Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 71426860,
+      "language": null,
+      "last_commit": "2021-04-30T21:49:21Z",
+      "owner": "jonleibowitz",
+      "repo": "awesome-digitalocean",
+      "stars": 381
+    },
     "original_repository_sha": "0e9ae3b9b5ac78b5bd1561e7a022c36fe689745c",
     "enhanced_repository": "enhansome/enhansome-digitalocean",
     "enhanced_repository_description": null,
