@@ -12,10 +12,10 @@
             "archived": false,
             "id": 52796596,
             "language": "Python",
-            "last_commit": "2026-08-26T19:31:37Z",
+            "last_commit": "2026-08-27T15:52:13Z",
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21399
+            "stars": 21402
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 36529854,
             "language": "Go",
-            "last_commit": "2026-08-27T06:53:34Z",
+            "last_commit": "2026-08-27T14:10:24Z",
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3451
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 36529854,
             "language": "Go",
-            "last_commit": "2026-08-27T06:53:34Z",
+            "last_commit": "2026-08-27T14:10:24Z",
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3451
@@ -341,7 +341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:43.192Z",
+    "last_updated": "2026-08-27T16:25:28.576Z",
     "original_repository_info": {
       "archived": false,
       "id": 71426860,
