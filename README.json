@@ -12,11 +12,12 @@
             "archived": false,
             "id": 52796596,
             "language": "Python",
-            "last_commit": "2026-08-27T15:52:13Z",
+            "last_commit": "2026-08-28T15:43:55Z",
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21402
-          }
+            "stars": 21406
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 36529854,
             "language": "Go",
-            "last_commit": "2026-08-27T14:10:24Z",
+            "last_commit": "2026-08-28T04:57:37Z",
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3451
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "digitalocean",
             "repo": "go-libvirt",
             "stars": 1100
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "digitalocean",
             "repo": "go-qemu",
             "stars": 816
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         }
       ],
       "title": "Open source projects"
@@ -82,7 +86,8 @@
             "owner": "skibish",
             "repo": "ddns",
             "stars": 266
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "tam7t",
             "repo": "droplan",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "f",
             "repo": "do-sshuttle",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "theforeman",
             "repo": "foreman-digitalocean",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "addpipe",
             "repo": "Less-Confusing-Digital-Ocean-Menus",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "shiva-hack",
             "repo": "ghost-digitalocean",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "jimmycuadra",
             "repo": "lita-digitalocean",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "progrium",
             "repo": "hostpool",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "bjornjohansen",
             "repo": "do-upgrade-plans",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "NicholasPCole",
             "repo": "dodc",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "qmx",
             "repo": "drophosts",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         }
       ],
       "title": "Community OSS projects"
@@ -249,11 +264,12 @@
             "archived": false,
             "id": 36529854,
             "language": "Go",
-            "last_commit": "2026-08-27T14:10:24Z",
+            "last_commit": "2026-08-28T04:57:37Z",
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3451
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "petems",
             "repo": "tugboat",
             "stars": 1438
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "andrewsomething",
             "repo": "digitalocean-indicator",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "terhechte",
             "repo": "OceanBar",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         }
       ],
       "title": "Clients"
@@ -319,7 +338,8 @@
             "owner": "digitalocean",
             "repo": "do_user_scripts",
             "stars": 805
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         },
         {
           "node_type": "item",
@@ -334,14 +354,15 @@
             "owner": "digitalocean",
             "repo": "engineering-code-of-conduct",
             "stars": 296
-          }
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:25:28.576Z",
+    "last_updated": "2026-08-28T17:22:56.337Z",
     "original_repository_info": {
       "archived": false,
       "id": 71426860,
