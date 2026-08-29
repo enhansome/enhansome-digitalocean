@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/",
+            "homepage": "https://netboxlabs.com/products/netbox/",
             "id": 52796596,
             "language": "Python",
-            "last_commit": "2026-08-28T15:43:55Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:18:10Z",
+            "open_issues": 196,
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21406
+            "stars": 21407,
+            "topics": [
+              "cabling",
+              "dcim",
+              "django",
+              "infrastructure-management",
+              "ipam",
+              "netbox",
+              "network",
+              "network-automation",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -26,12 +41,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official command line interface for the DigitalOcean API.",
+            "homepage": "https://docs.digitalocean.com/reference/doctl/",
             "id": 36529854,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:57:37Z",
+            "open_issues": 155,
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3451
+            "stars": 3451,
+            "topics": [
+              "cloud",
+              "command-line",
+              "digitalocean",
+              "hacktoberfest",
+              "infrastructure"
+            ]
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -42,12 +68,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package libvirt provides a pure Go interface for interacting with Libvirt.  Apache 2.0 Licensed.",
+            "homepage": null,
             "id": 59240156,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T19:05:18Z",
+            "open_issues": 15,
             "owner": "digitalocean",
             "repo": "go-libvirt",
-            "stars": 1100
+            "stars": 1100,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -58,12 +89,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go packages to interact with QEMU using the QEMU Machine Protocol (QMP).  Apache 2.0 Licensed.",
+            "homepage": null,
             "id": 57146365,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-05T14:52:20Z",
+            "open_issues": 16,
             "owner": "digitalocean",
             "repo": "go-qemu",
-            "stars": 816
+            "stars": 816,
+            "topics": [
+              "golang",
+              "qemu"
+            ]
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         }
@@ -80,12 +119,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal DDNS client with Digital Ocean Networking DNS as backend.",
+            "homepage": null,
             "id": 84874313,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-05-01T16:55:34Z",
+            "open_issues": 3,
             "owner": "skibish",
             "repo": "ddns",
-            "stars": 266
+            "stars": 266,
+            "topics": [
+              "ddns",
+              "digital-ocean",
+              "digitalocean",
+              "dyndns",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -96,12 +147,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage iptable rules for the private interface on DigitalOcean droplets",
+            "homepage": null,
             "id": 50146091,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2017-06-10T02:32:23Z",
+            "open_issues": 4,
             "owner": "tam7t",
             "repo": "droplan",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "digitalocean",
+              "iptables"
+            ]
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -112,12 +171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use DigitalOcean Droplet to Transparent Proxying via sshuttle",
+            "homepage": null,
             "id": 72980550,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2016-11-06T09:40:32Z",
+            "open_issues": 0,
             "owner": "f",
             "repo": "do-sshuttle",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -128,12 +192,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Plugin to enable management of DigitalOcean droplets in Foreman",
+            "homepage": "http://projects.theforeman.org/projects/digitalocean",
             "id": 27369191,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2018-10-20T14:32:30Z",
+            "open_issues": 1,
             "owner": "theforeman",
             "repo": "foreman-digitalocean",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -144,12 +215,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple Chrome extension that makes the Digital Ocean menus less confusing for those using Teams",
+            "homepage": "https://chrome.google.com/webstore/detail/less-confusing-digital-oc/fbcimbafahpbjimdoonmmjjngjcdoodb",
             "id": 84197945,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-03-17T09:08:26Z",
+            "open_issues": 0,
             "owner": "addpipe",
             "repo": "Less-Confusing-Digital-Ocean-Menus",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "chrome-extension",
+              "digital-ocean",
+              "digitalocean"
+            ]
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -160,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A DigitalOcean Storage adapter for Ghost 1.x and Ghost 2.x",
+            "homepage": null,
             "id": 121845896,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-27T10:16:08Z",
+            "open_issues": 1,
             "owner": "shiva-hack",
             "repo": "ghost-digitalocean",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -176,12 +261,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Lita handler for managing DigitalOcean services.",
+            "homepage": null,
             "id": 18660251,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2014-10-23T16:30:09Z",
+            "open_issues": 1,
             "owner": "jimmycuadra",
             "repo": "lita-digitalocean",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "chatops",
+              "devops",
+              "digitalocean",
+              "lita",
+              "lita-handler",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -192,12 +289,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A worker pool manager for DigitalOcean hosts.",
+            "homepage": null,
             "id": 14223229,
             "language": "Go",
+            "license": null,
             "last_commit": "2013-11-08T09:03:42Z",
+            "open_issues": 0,
             "owner": "progrium",
             "repo": "hostpool",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -208,12 +310,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Upgrade your DigitalOcean droplets to better plans with the same cost.",
+            "homepage": null,
             "id": 118057802,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2018-01-19T01:26:28Z",
+            "open_issues": 0,
             "owner": "bjornjohansen",
             "repo": "do-upgrade-plans",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -224,12 +331,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dialog-based shell script to quickly create a single DigitalOcean Droplet",
+            "homepage": null,
             "id": 76091233,
             "language": "Shell",
+            "license": null,
             "last_commit": "2020-05-13T03:38:18Z",
+            "open_issues": 3,
             "owner": "NicholasPCole",
             "repo": "dodc",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "digitalocean"
+            ]
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -240,12 +354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 72262571,
             "language": "Go",
+            "license": null,
             "last_commit": "2016-11-29T04:18:54Z",
+            "open_issues": 0,
             "owner": "qmx",
             "repo": "drophosts",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         }
@@ -262,12 +381,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official command line interface for the DigitalOcean API.",
+            "homepage": "https://docs.digitalocean.com/reference/doctl/",
             "id": 36529854,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:57:37Z",
+            "open_issues": 155,
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3451
+            "stars": 3451,
+            "topics": [
+              "cloud",
+              "command-line",
+              "digitalocean",
+              "hacktoberfest",
+              "infrastructure"
+            ]
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -278,12 +408,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line tool for interacting with your DigitalOcean droplets.",
+            "homepage": null,
             "id": 9418724,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2018-03-11T19:09:27Z",
+            "open_issues": 12,
             "owner": "petems",
             "repo": "tugboat",
-            "stars": 1438
+            "stars": 1438,
+            "topics": [
+              "digitalocean",
+              "droplet",
+              "ruby",
+              "tugboat"
+            ]
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -294,12 +434,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage and monitor your Droplets from you panel",
+            "homepage": null,
             "id": 18739136,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2017-04-30T20:28:28Z",
+            "open_issues": 1,
             "owner": "andrewsomething",
             "repo": "digitalocean-indicator",
-            "stars": 174
+            "stars": 174,
+            "topics": [
+              "digitalocean"
+            ]
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -310,12 +457,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A fancy Digital Ocean API client for Mac OS X 10.9+",
+            "homepage": null,
             "id": 19317760,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2016-06-01T13:45:21Z",
+            "open_issues": 3,
             "owner": "terhechte",
             "repo": "OceanBar",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         }
@@ -332,12 +484,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 36458663,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2018-01-19T13:52:12Z",
+            "open_issues": 23,
             "owner": "digitalocean",
             "repo": "do_user_scripts",
-            "stars": 805
+            "stars": 805,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -348,12 +505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code of Conduct for DigitalOcean's Engineering Team",
+            "homepage": null,
             "id": 45945933,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-04-02T17:21:05Z",
+            "open_issues": 3,
             "owner": "digitalocean",
             "repo": "engineering-code-of-conduct",
-            "stars": 296
+            "stars": 296,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         }
@@ -362,15 +524,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:22:56.337Z",
+    "last_updated": "2026-08-29T04:44:24.462Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
+      "homepage": null,
       "id": 71426860,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2021-04-30T21:49:21Z",
+      "open_issues": 3,
       "owner": "jonleibowitz",
       "repo": "awesome-digitalocean",
-      "stars": 381
+      "stars": 381,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud-computing",
+        "digitalocean",
+        "hacktoberfest",
+        "infrastructure"
+      ]
     },
     "original_repository_sha": "0e9ae3b9b5ac78b5bd1561e7a022c36fe689745c",
     "enhanced_repository": "enhansome/enhansome-digitalocean",
