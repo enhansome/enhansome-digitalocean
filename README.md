@@ -49,10 +49,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open source projects
 
-* [Netbox](https://github.com/digitalocean/netbox) ⭐ 21,413 | 🐛 197 | 🌐 Python | 📅 2026-08-29
+* [Netbox](https://github.com/digitalocean/netbox) ⭐ 21,430 | 🐛 195 | 🌐 Python | 📅 2026-08-29
 * [Doctl](https://github.com/digitalocean/doctl) ⭐ 3,451 | 🐛 155 | 🌐 Go | 📅 2026-08-28 - Official command-line interface for the DigitalOcean API.
 * [go-libvirt](https://github.com/digitalocean/go-libvirt) ⭐ 1,100 | 🐛 15 | 🌐 Go | 📅 2026-08-14
-* [go-qemu](https://github.com/digitalocean/go-qemu) ⭐ 816 | 🐛 16 | 🌐 Go | 📅 2025-05-05
+* [go-qemu](https://github.com/digitalocean/go-qemu) ⭐ 817 | 🐛 16 | 🌐 Go | 📅 2025-05-05
 * [Open Source @ DigitalOcean](https://developers.digitalocean.com/opensource/)
 
 ## Commercial integrations
@@ -105,4 +105,4 @@ To the extent possible under law, [Jon Leibowitz](https://github.com/jonleibowit
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T05:02:17Z",
-            "open_issues": 197,
+            "open_issues": 195,
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21413,
+            "stars": 21430,
             "topics": [
               "cabling",
               "dcim",
@@ -98,7 +98,7 @@
             "open_issues": 16,
             "owner": "digitalocean",
             "repo": "go-qemu",
-            "stars": 816,
+            "stars": 817,
             "topics": [
               "golang",
               "qemu"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:36:38.745Z",
+    "last_updated": "2026-08-30T10:26:54.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
