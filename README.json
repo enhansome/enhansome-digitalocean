@@ -19,7 +19,7 @@
             "open_issues": 213,
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21475,
+            "stars": 21480,
             "topics": [
               "cabling",
               "dcim",
@@ -50,7 +50,7 @@
             "open_issues": 163,
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3451,
+            "stars": 3450,
             "topics": [
               "cloud",
               "command-line",
@@ -390,7 +390,7 @@
             "open_issues": 163,
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3451,
+            "stars": 3450,
             "topics": [
               "cloud",
               "command-line",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:59:18.160Z",
+    "last_updated": "2026-09-06T09:20:42.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
