@@ -15,11 +15,11 @@
             "id": 52796596,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T09:59:41Z",
-            "open_issues": 214,
+            "last_commit": "2026-09-08T05:02:45Z",
+            "open_issues": 217,
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21488,
+            "stars": 21494,
             "topics": [
               "cabling",
               "dcim",
@@ -46,8 +46,8 @@
             "id": 36529854,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T11:52:41Z",
-            "open_issues": 163,
+            "last_commit": "2026-09-08T05:11:15Z",
+            "open_issues": 164,
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3449,
@@ -142,30 +142,6 @@
         },
         {
           "node_type": "item",
-          "title": "droplan",
-          "description": "Manage iptable rules for the private interface on DigitalOcean droplets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Manage iptable rules for the private interface on DigitalOcean droplets",
-            "homepage": null,
-            "id": 50146091,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2017-06-10T02:32:23Z",
-            "open_issues": 4,
-            "owner": "tam7t",
-            "repo": "droplan",
-            "stars": 68,
-            "topics": [
-              "digitalocean",
-              "iptables"
-            ]
-          },
-          "first_seen": "2026-08-28T17:22:56.337Z"
-        },
-        {
-          "node_type": "item",
           "title": "do-sshuttle",
           "description": "Transparent Proxying via sshuttle to DigitalOcean Droplet.",
           "children": [],
@@ -182,6 +158,30 @@
             "repo": "do-sshuttle",
             "stars": 67,
             "topics": []
+          },
+          "first_seen": "2026-08-28T17:22:56.337Z"
+        },
+        {
+          "node_type": "item",
+          "title": "droplan",
+          "description": "Manage iptable rules for the private interface on DigitalOcean droplets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Manage iptable rules for the private interface on DigitalOcean droplets",
+            "homepage": null,
+            "id": 50146091,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2017-06-10T02:32:23Z",
+            "open_issues": 4,
+            "owner": "tam7t",
+            "repo": "droplan",
+            "stars": 67,
+            "topics": [
+              "digitalocean",
+              "iptables"
+            ]
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
         },
@@ -386,8 +386,8 @@
             "id": 36529854,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T11:52:41Z",
-            "open_issues": 163,
+            "last_commit": "2026-09-08T05:11:15Z",
+            "open_issues": 164,
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3449,
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:10:38.975Z",
+    "last_updated": "2026-09-08T09:35:19.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
