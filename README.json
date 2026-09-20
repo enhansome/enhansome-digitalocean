@@ -19,7 +19,7 @@
             "open_issues": 220,
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21553,
+            "stars": 21559,
             "topics": [
               "cabling",
               "dcim",
@@ -98,7 +98,7 @@
             "open_issues": 16,
             "owner": "digitalocean",
             "repo": "go-qemu",
-            "stars": 817,
+            "stars": 818,
             "topics": [
               "golang",
               "qemu"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:25:14.692Z",
+    "last_updated": "2026-09-20T09:44:20.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
@@ -536,7 +536,7 @@
       "open_issues": 3,
       "owner": "jonleibowitz",
       "repo": "awesome-digitalocean",
-      "stars": 382,
+      "stars": 381,
       "topics": [
         "awesome",
         "awesome-list",
