@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Netbox",
-          "description": null,
+          "description": "netbox-community/netbox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 52796596,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T20:38:55Z",
-            "open_issues": 227,
+            "last_commit": "2026-10-02T19:16:01Z",
+            "open_issues": 231,
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21641,
+            "stars": 21644,
             "topics": [
               "cabling",
               "dcim",
@@ -47,10 +47,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T17:33:54Z",
-            "open_issues": 166,
+            "open_issues": 167,
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3455,
+            "stars": 3454,
             "topics": [
               "cloud",
               "command-line",
@@ -64,7 +64,7 @@
         {
           "node_type": "item",
           "title": "go-libvirt",
-          "description": null,
+          "description": "digitalocean/go-libvirt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -77,7 +77,7 @@
             "open_issues": 15,
             "owner": "digitalocean",
             "repo": "go-libvirt",
-            "stars": 1100,
+            "stars": 1099,
             "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
@@ -85,7 +85,7 @@
         {
           "node_type": "item",
           "title": "go-qemu",
-          "description": null,
+          "description": "digitalocean/go-qemu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -98,7 +98,7 @@
             "open_issues": 16,
             "owner": "digitalocean",
             "repo": "go-qemu",
-            "stars": 818,
+            "stars": 817,
             "topics": [
               "golang",
               "qemu"
@@ -387,10 +387,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T17:33:54Z",
-            "open_issues": 166,
+            "open_issues": 167,
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3455,
+            "stars": 3454,
             "topics": [
               "cloud",
               "command-line",
@@ -501,7 +501,7 @@
         {
           "node_type": "item",
           "title": "Engineering Code of Conduct",
-          "description": null,
+          "description": "digitalocean/engineering-code-of-conduct",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -514,7 +514,7 @@
             "open_issues": 3,
             "owner": "digitalocean",
             "repo": "engineering-code-of-conduct",
-            "stars": 296,
+            "stars": 295,
             "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:02:42.005Z",
+    "last_updated": "2026-10-03T04:40:58.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
