@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T19:16:01Z",
-            "open_issues": 231,
+            "open_issues": 230,
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21644,
+            "stars": 21645,
             "topics": [
               "cabling",
               "dcim",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:40:58.981Z",
+    "last_updated": "2026-10-03T10:21:29.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",

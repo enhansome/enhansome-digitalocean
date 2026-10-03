@@ -49,7 +49,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open source projects
 
-* [Netbox](https://github.com/digitalocean/netbox) ⭐ 21,644 | 🐛 231 | 🌐 Python | 📅 2026-10-02
+* [Netbox](https://github.com/digitalocean/netbox) ⭐ 21,645 | 🐛 230 | 🌐 Python | 📅 2026-10-02
 * [Doctl](https://github.com/digitalocean/doctl) ⭐ 3,454 | 🐛 167 | 🌐 Go | 📅 2026-10-01 - Official command-line interface for the DigitalOcean API.
 * [go-libvirt](https://github.com/digitalocean/go-libvirt) ⭐ 1,099 | 🐛 15 | 🌐 Go | 📅 2026-08-14
 * [go-qemu](https://github.com/digitalocean/go-qemu) ⭐ 817 | 🐛 16 | 🌐 Go | 📅 2025-05-05
