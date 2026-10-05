@@ -15,11 +15,11 @@
             "id": 52796596,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T19:16:01Z",
-            "open_issues": 229,
+            "last_commit": "2026-10-05T11:40:11Z",
+            "open_issues": 241,
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21650,
+            "stars": 21654,
             "topics": [
               "cabling",
               "dcim",
@@ -46,8 +46,8 @@
             "id": 36529854,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T17:33:54Z",
-            "open_issues": 167,
+            "last_commit": "2026-10-05T08:04:33Z",
+            "open_issues": 169,
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3454,
@@ -98,7 +98,7 @@
             "open_issues": 16,
             "owner": "digitalocean",
             "repo": "go-qemu",
-            "stars": 817,
+            "stars": 816,
             "topics": [
               "golang",
               "qemu"
@@ -386,8 +386,8 @@
             "id": 36529854,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T17:33:54Z",
-            "open_issues": 167,
+            "last_commit": "2026-10-05T08:04:33Z",
+            "open_issues": 169,
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3454,
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:04:11.980Z",
+    "last_updated": "2026-10-05T12:12:38.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
