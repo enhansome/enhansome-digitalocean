@@ -15,7 +15,7 @@
             "id": 52796596,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:28:59Z",
+            "last_commit": "2026-10-06T11:46:02Z",
             "open_issues": 229,
             "owner": "netbox-community",
             "repo": "netbox",
@@ -74,7 +74,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-14T19:05:18Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "digitalocean",
             "repo": "go-libvirt",
             "stars": 1099,
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:06:39.786Z",
+    "last_updated": "2026-10-06T11:58:30.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
