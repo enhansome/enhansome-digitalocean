@@ -15,11 +15,11 @@
             "id": 52796596,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T05:02:24Z",
-            "open_issues": 227,
+            "last_commit": "2026-10-24T05:02:22Z",
+            "open_issues": 232,
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21749,
+            "stars": 21755,
             "topics": [
               "cabling",
               "dcim",
@@ -46,8 +46,8 @@
             "id": 36529854,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T09:47:14Z",
-            "open_issues": 186,
+            "last_commit": "2026-10-23T19:02:29Z",
+            "open_issues": 185,
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3455,
@@ -77,7 +77,7 @@
             "open_issues": 18,
             "owner": "digitalocean",
             "repo": "go-libvirt",
-            "stars": 1101,
+            "stars": 1102,
             "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
@@ -386,8 +386,8 @@
             "id": 36529854,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T09:47:14Z",
-            "open_issues": 186,
+            "last_commit": "2026-10-23T19:02:29Z",
+            "open_issues": 185,
             "owner": "digitalocean",
             "repo": "doctl",
             "stars": 3455,
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:58:13.806Z",
+    "last_updated": "2026-10-24T09:27:13.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
@@ -536,7 +536,7 @@
       "open_issues": 3,
       "owner": "jonleibowitz",
       "repo": "awesome-digitalocean",
-      "stars": 383,
+      "stars": 382,
       "topics": [
         "awesome",
         "awesome-list",
