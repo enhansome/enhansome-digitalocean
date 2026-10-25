@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-24T05:02:22Z",
-            "open_issues": 232,
+            "open_issues": 233,
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21755,
+            "stars": 21759,
             "topics": [
               "cabling",
               "dcim",
@@ -77,7 +77,7 @@
             "open_issues": 18,
             "owner": "digitalocean",
             "repo": "go-libvirt",
-            "stars": 1102,
+            "stars": 1103,
             "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
@@ -124,8 +124,8 @@
             "id": 84874313,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2025-05-01T16:55:34Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-24T19:40:34Z",
+            "open_issues": 1,
             "owner": "skibish",
             "repo": "ddns",
             "stars": 267,
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:27:13.123Z",
+    "last_updated": "2026-10-25T09:44:55.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
