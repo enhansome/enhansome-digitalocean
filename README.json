@@ -15,11 +15,11 @@
             "id": 52796596,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T12:19:10Z",
-            "open_issues": 264,
+            "last_commit": "2026-11-10T05:01:52Z",
+            "open_issues": 267,
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21863,
+            "stars": 21868,
             "topics": [
               "cabling",
               "dcim",
@@ -46,11 +46,11 @@
             "id": 36529854,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T14:11:08Z",
-            "open_issues": 198,
+            "last_commit": "2026-11-10T12:38:40Z",
+            "open_issues": 200,
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3455,
+            "stars": 3454,
             "topics": [
               "cloud",
               "command-line",
@@ -98,7 +98,7 @@
             "open_issues": 17,
             "owner": "digitalocean",
             "repo": "go-qemu",
-            "stars": 818,
+            "stars": 819,
             "topics": [
               "golang",
               "qemu"
@@ -386,11 +386,11 @@
             "id": 36529854,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T14:11:08Z",
-            "open_issues": 198,
+            "last_commit": "2026-11-10T12:38:40Z",
+            "open_issues": 200,
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3455,
+            "stars": 3454,
             "topics": [
               "cloud",
               "command-line",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T13:48:29.679Z",
+    "last_updated": "2026-11-10T13:24:30.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
