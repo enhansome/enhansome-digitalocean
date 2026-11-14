@@ -49,10 +49,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open source projects
 
-* [Netbox](https://github.com/digitalocean/netbox) ⭐ 21,877 | 🐛 269 | 🌐 Python | 📅 2026-11-13
-* [Doctl](https://github.com/digitalocean/doctl) ⭐ 3,455 | 🐛 204 | 🌐 Go | 📅 2026-11-12 - Official command-line interface for the DigitalOcean API.
+* [Netbox](https://github.com/digitalocean/netbox) ⭐ 21,881 | 🐛 262 | 🌐 Python | 📅 2026-11-14
+* [Doctl](https://github.com/digitalocean/doctl) ⭐ 3,456 | 🐛 203 | 🌐 Go | 📅 2026-11-13 - Official command-line interface for the DigitalOcean API.
 * [go-libvirt](https://github.com/digitalocean/go-libvirt) ⭐ 1,108 | 🐛 19 | 🌐 Go | 📅 2026-10-13
-* [go-qemu](https://github.com/digitalocean/go-qemu) ⭐ 819 | 🐛 17 | 🌐 Go | 📅 2025-05-05
+* [go-qemu](https://github.com/digitalocean/go-qemu) ⭐ 820 | 🐛 17 | 🌐 Go | 📅 2025-05-05
 * [Open Source @ DigitalOcean](https://developers.digitalocean.com/opensource/)
 
 ## Commercial integrations
@@ -79,7 +79,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Clients
 
-* [doctl](https://github.com/digitalocean/doctl) ⭐ 3,455 | 🐛 204 | 🌐 Go | 📅 2026-11-12 - Command-line tool for DigitalOcean services.
+* [doctl](https://github.com/digitalocean/doctl) ⭐ 3,456 | 🐛 203 | 🌐 Go | 📅 2026-11-13 - Command-line tool for DigitalOcean services.
 * [Tugboat](https://github.com/pearkes/tugboat) ⭐ 1,437 | 🐛 12 | 🌐 Ruby | 📅 2018-03-11 - Ruby command-line tool for DigitalOcean services, focusing on a more guided UX.
 * [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) ⭐ 174 | 🐛 1 | 🌐 Python | 📅 2017-04-30 - Debian Gnome panel client.
 * [OceanBar](https://github.com/terhechte/OceanBar) ⚠️ Archived - macOS menu bar client.
@@ -105,4 +105,4 @@ To the extent possible under law, [Jon Leibowitz](https://github.com/jonleibowit
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
