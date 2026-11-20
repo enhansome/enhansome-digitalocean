@@ -15,11 +15,11 @@
             "id": 52796596,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T12:51:00Z",
-            "open_issues": 272,
+            "last_commit": "2026-11-20T13:26:28Z",
+            "open_issues": 279,
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21905,
+            "stars": 21911,
             "topics": [
               "cabling",
               "dcim",
@@ -46,11 +46,11 @@
             "id": 36529854,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T09:52:56Z",
-            "open_issues": 207,
+            "last_commit": "2026-11-20T05:31:47Z",
+            "open_issues": 208,
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3456,
+            "stars": 3455,
             "topics": [
               "cloud",
               "command-line",
@@ -98,7 +98,7 @@
             "open_issues": 17,
             "owner": "digitalocean",
             "repo": "go-qemu",
-            "stars": 820,
+            "stars": 819,
             "topics": [
               "golang",
               "qemu"
@@ -386,11 +386,11 @@
             "id": 36529854,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T09:52:56Z",
-            "open_issues": 207,
+            "last_commit": "2026-11-20T05:31:47Z",
+            "open_issues": 208,
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3456,
+            "stars": 3455,
             "topics": [
               "cloud",
               "command-line",
@@ -493,7 +493,7 @@
             "open_issues": 23,
             "owner": "digitalocean",
             "repo": "do_user_scripts",
-            "stars": 800,
+            "stars": 799,
             "topics": []
           },
           "first_seen": "2026-08-28T17:22:56.337Z"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:20:01.991Z",
+    "last_updated": "2026-11-20T13:56:53.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
