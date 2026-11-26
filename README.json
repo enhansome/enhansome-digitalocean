@@ -15,11 +15,11 @@
             "id": 52796596,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T05:02:32Z",
-            "open_issues": 265,
+            "last_commit": "2026-11-26T14:41:46Z",
+            "open_issues": 266,
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21941,
+            "stars": 21948,
             "topics": [
               "cabling",
               "dcim",
@@ -46,11 +46,11 @@
             "id": 36529854,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T15:25:08Z",
-            "open_issues": 210,
+            "last_commit": "2026-11-26T13:13:13Z",
+            "open_issues": 202,
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3456,
+            "stars": 3457,
             "topics": [
               "cloud",
               "command-line",
@@ -386,11 +386,11 @@
             "id": 36529854,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T15:25:08Z",
-            "open_issues": 210,
+            "last_commit": "2026-11-26T13:13:13Z",
+            "open_issues": 202,
             "owner": "digitalocean",
             "repo": "doctl",
-            "stars": 3456,
+            "stars": 3457,
             "topics": [
               "cloud",
               "command-line",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T15:29:10.450Z",
+    "last_updated": "2026-11-26T15:01:44.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
